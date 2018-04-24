@@ -1,0 +1,24 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "modules for hangman game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbejar93/Word-Guess-Cli.git"
+  },
+  "author": "carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbejar93/Word-Guess-Cli/issues"
+  },
+  "homepage": "https://github.com/cbejar93/Word-Guess-Cli#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "prompt": "^1.0.0",
+    "save": "^2.3.2"
+  }
+}
